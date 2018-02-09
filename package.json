@@ -1,6 +1,6 @@
 {
   "name": "@skrumble/sails-elastic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Elasticsearch adapter for Sails / Waterline",
   "main": "./lib/adapter.js",
   "scripts": {
